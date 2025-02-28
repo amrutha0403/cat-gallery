@@ -15,7 +15,7 @@ It supports **infinite scrolling**, **breed filtering**, and **error handling** 
 ---
 
 ## 🚀 Live Demo
-🔗 **[Deployed on Vercel]([https://your-vercel-url.vercel.app/](https://cat-gallery-p4vt073m3-amruthas-projects-0c4a7b9a.vercel.app/))** 
+🔗 **[Deployed on Vercel]([https://cat-gallery-p4vt073m3-amruthas-projects-0c4a7b9a.vercel.app/])** 
 
 ---
 
